@@ -1,0 +1,19 @@
+{
+  "name": "os-aio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongTheObserver/nft-trade-aio.git"
+  },
+  "author": "LongTheObserver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongTheObserver/nft-trade-aio/issues"
+  },
+  "homepage": "https://github.com/LongTheObserver/nft-trade-aio#readme"
+}
